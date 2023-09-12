@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Hello, World!1234</h1>
+    <h1>Hello, World!123412341234</h1>
   </div>
 </template>
 
@@ -8,5 +8,6 @@
 export default {
   name: 'HelloWorld',
 }
+console.log('rofl');
 </script>
 
