@@ -1,7 +1,5 @@
 <template>
-  <body>
-    <HelloWorld msg="Hello, World!"/>
-  </body>
+  <HelloWorld/>
 </template>
 
 <script>
