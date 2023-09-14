@@ -1,14 +1,14 @@
 <template>
-  <HelloWorld/>
+  <TheMainWrapper/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import TheMainWrapper from './components/TheMainWrapper.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    TheMainWrapper,
   }
 }
 </script>
